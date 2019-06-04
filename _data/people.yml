@@ -1,0 +1,619 @@
+- name: Dr. Debdoot Sheet
+  photo: ds.jpg
+  info: Principal Investigator (PI) of KLIV Group
+  email: debdoot@ee.iitkgp.ac.in
+  description:
+    - Assistant Professor, Department of Electrical Engineering, IIT Kharagpur
+    - Founder and Managing Director, SkinCurate Research Pvt. Ltd.
+    - <a href="http://www.facweb.iitkgp.ac.in/~debdoot/index.html" target="_blank"> Personal Site </a>
+  type: head
+  url:
+    linkedin: "https://www.linkedin.com/in/debdoot/"
+    gscholar: "https://scholar.google.com/citations?user=x-0vLSsAAAAJ&hl=en"
+    github: "https://github.com/debdoot"
+    researchgate: "https://www.researchgate.net/profile/Debdoot_Sheet"
+
+- name: Arunava Chakravarty
+  photo: ac.jpeg
+  info: Research Consultant
+  email: arunavachakravarty1206@gmail.com
+  description:
+    - Deep Learning
+    - Medical Image Analysis
+  type: member
+  url:
+    linkedin: "https://www.linkedin.com/in/arunava-chakravarty-b1736b158/"
+    gscholar: "https://scholar.google.co.in/citations?user=Tk2svbAAAAAJ&hl=en"
+    github: "https://github.com/arunava555?tab=stars"
+    researchgate: "https://www.researchgate.net/profile/Arunava_Chakravarty"
+
+- name: Kausik Basak
+  photo: kb.jpg
+  info: Postdoctoral Research Consultant
+  email: kausikbasak16@gmail.com
+  description:
+    - Biophotonic Imaging
+    - Image processing
+    - Machine Learning
+  type: member
+  url:
+    linkedin: "https://www.linkedin.com/in/kausikbasak16/?originalSubdomain=in"
+    gscholar: "https://scholar.google.co.in/citations?user=urimOcEAAAAJ&hl=en"
+    github: 
+    researchgate: "https://www.researchgate.net/profile/Kausik_Basak2"
+
+- name: Debarghya China
+  photo: dc.jpg
+  info: PhD Candidate
+  email: debarghyachina@gmail.com
+  description:
+    - Ultrasound Image Analysis
+  type: member
+  url:
+    linkedin: "https://www.linkedin.com/in/debarghya-china-2a637aba/"
+    gscholar: "https://scholar.google.co.in/citations?user=EQOW7T0AAAAJ&hl=en"
+    github: 
+    researchgate: "https://www.researchgate.net/profile/Debarghya_China"
+
+- name: Kaushik Das
+  photo: kd.jpg
+  info: PhD Candidate
+  email: imkausikdas@gmail.com
+  description:
+    - Digital Pathology
+  type: member
+  url:
+    linkedin: "https://www.linkedin.com/in/kausik-das-1ab1ab8a/"
+    gscholar: 
+    github: 
+    researchgate:
+
+- name: Rachana Sathish
+  photo: rs.jpg
+  info: PhD Candidate
+  email: rachana.sathish@iitkgp.ac.in
+  description:
+    - Explainable AI and deep learning
+    - Computational and Architectural optimization of Deep Neural Networks
+  type: member
+  url:
+    linkedin: https://www.linkedin.com/in/rachana-sathish-65163153/?originalSubdomain=in
+    gscholar: https://scholar.google.co.in/citations?user=V0UWsusAAAAJ&hl=en
+    github: "https://github.com/rachana-sathish"
+    researchgate: "https://www.researchgate.net/profile/Rachana_Sathish"
+
+- name: Srinivas Maddimsetti
+  photo: sm.png
+  info: Research Scholar (Ph.D)
+  email: msrinivas@iitkgp.ac.in
+  description:
+    - Computataional Medical Imaging
+  type: member
+  url:
+    linkedin: www.linkedin.com/in/maddimsetti-srinivas-5233801b 
+    gscholar: 
+    github: https://github.com/msrinivaskgp
+    researchgate:
+
+- name: Ayan Das
+  photo: ad.jpg
+  info: M.S. student
+  email: ayan.das@ee.iitkgp.ac.in
+  description:
+   - Medical Image Compression
+   - Computational Optimization
+   - <a href="https://dasayan05.github.io/" target="_blank"> Personal Site </a>
+  type: member
+  url:
+    linkedin: "https://www.linkedin.com/in/ayan-das-a49928a7/"
+    gscholar: "https://scholar.google.co.in/citations?user=GsoQVuoAAAAJ&hl=en"
+    github: "https://github.com/dasayan05"
+    researchgate: "https://www.researchgate.net/profile/Ayan_Das15"
+
+
+- name: This could be You !
+  photo: phman.jpg
+  info: Be a part of the team ..
+  email: you@mail.com
+  description:
+    - See the vacancy list
+  type: member
+
+- name: Aupendu Kar
+  photo: ak.png
+  info: PhD Candidate
+  email: aupendukar@iitkgp.ac.in
+  description:
+    - M.Tech in Instrumentation and Signal Processing from EE Dept., IIT Kharagpur
+    - BTech in Electrical Engineering from West Bengal University of Technology
+    - <a href="https://aupendu.github.io/" target="_blank"> Personal Site </a>
+  type: alumni
+
+- name: Abhijit Guha Roy
+  photo: agr.jpg
+  info: PhD Research Scholar
+  email: abhijit.guha-roy@tum.de
+  description:
+    -
+  type: alumni
+  course: mtech
+
+- name: Niladri Garai
+  photo: niladri.jpg
+  info: PhD Candidate
+  email: niladrigarai@smst.iitkgp.ernet.in
+  description:
+    - 
+  type: alumni
+
+- name: Ram Nagar
+  photo: ramnagar.jpg
+  info: B.Tech Student
+  email: 
+  url: 
+  description:
+    -
+  type: alumni
+
+- name: Akshit Mantri
+  photo: akshit.jpg
+  info: B.Tech in Electrical Engineering and M.Tech in Instrumentation and Signal Processing Field Of Study Minor in Computer Science and Engineering 
+  email: 
+  url: https://in.linkedin.com/in/akshit-mantri-327a5b101
+  description:
+    
+  type: alumni
+
+- name: Srichandra Chi-lappagari
+  photo: srichanda.jpg
+  info: Bachelor of Technology (BTech) and Master of Technology(MTech) Field Of Study Electronics and Electrical Communication Engineering 
+  email: 
+  url: https://in.linkedin.com/in/srichandra-chilappagari
+  description:
+    
+  type: alumni
+
+- name: Abhinav Agarwal
+  photo: avinav.jpg
+  info: B.Tech Major Field Of Study Electrical Engineering & B.Tech Minor Field Of Study Computer Science and Engineering 
+  email: 
+  url: linkedin.com/in/abhinav-aggarwal-ab7331119
+  description:
+    
+  type: alumni
+
+- name: Abhishek Pal
+  photo: avishek.jpg
+  info: 
+  email: 
+  url: https://in.linkedin.com/in/abhishek-pal-22672142
+  description:
+    
+  type: alumni
+
+- name: Shubh Agrawal
+  photo: shubh.jpg
+  info: Research Assistant
+  email: 
+  url: https://www.linkedin.com/in/shubh-agrawal111/?trk=public-profile-join-page
+  description:
+    
+  type: alumni
+
+- name: Neha Banerjee
+  photo: neha.jpg
+  info: Bachelor of Technology (B.Tech.) Field Of Study Electrical Engineering
+  email: 
+  url: https://in.linkedin.com/in/nehabanerjeeiit
+  description:
+    
+  type: alumni
+  year: 
+
+- name: Nikhil Naik
+  photo: nikhil.jpg
+  info: Bachelor of Technology (B.Tech.) Field Of Study Instrumentation Engineering 
+  email: 
+  url: https://www.linkedin.com/in/nikhilvnaik
+  description:
+    
+  type: alumni
+  year: 
+
+- name: Himanshu Chaudhary
+  photo: hs.jpg
+  info: Bachelor of Technology (B.Tech.) Field Of Study Instrumentation Engineering 
+  email: 
+  url: https://in.linkedin.com/in/himanshu-chaudhary-688097b7
+  description:
+    
+  type: alumni
+  year: 
+
+- name: Prashant Yadav
+  photo: py.jpg
+  info: Bachelor of Technology (B.Tech.) Field Of Study Electrical Engineering
+  email: 
+  url: https://www.linkedin.com/in/prashant-yadav-63b465a0
+  description:
+    
+  type: alumni
+  year: 
+
+- name: Inderpreet Kaur
+  photo: ik.jpg
+  info: Bachelor of Technology (B.Tech.) Field Of Study Instrumentation Engineering 
+  email: 
+  url: https://in.linkedin.com/in/inderpreet15
+  description:
+    
+  type: 
+  year: 2016
+  course: btech
+
+- name: Sumanth Nandamuri
+  photo: sumanth.jpg
+  info: Dual Degree 
+  email:  sumanthnandamuri99@gmail.com 
+  url: 
+  description:
+    
+  type: undergrad
+  Linkedin: https://in.linkedin.com/in/nandamuri-hari-naga-sumanth-8b6b19135
+
+- name: Saketh Singh
+  photo: saket.jpg
+  info:  Dual Degree 
+  email: saketsingh019@gmail.com
+  url: 
+  description:
+    
+  type: undergrad
+  Linkedin: https://in.linkedin.com/in/saket-singh-b04205112
+  
+
+- name: Anand Mooga
+  photo: anand.png
+  info:  Bachelor of Technology (B.Tech.) Field Of Study Electrical Engineering
+  email: anandmooga2@gmail.com
+  url: 
+  description:
+    
+  type: undergrad
+  Linkedin: https://in.linkedin.com/in/anandmooga
+
+- name: Rahul Raj
+  photo: rahul.png
+  info:  Bachelor of Technology (B.Tech.) Field Of Study Electrical Engineering
+  email: rahul361raj@gmail.com
+  url:
+  description:
+    
+  type: undergrad
+  Linkedin: https://www.linkedin.com/in/rahul-raj-iitkgp/
+  
+
+- name: Apoorv Balde
+  photo: apoorv.jpg
+  info:  
+  email: 
+  url:
+  description:
+    - Augmented Reality
+  type: undergrad
+
+- name: Tapas Halder
+  photo: tapas.jpg
+  info:  Secretarial Support
+  email: tapas4mkgp@gmail.com
+  url:
+  description:
+    
+  type: support
+
+- name: Arindam Chakraborty
+  photo: chk.png
+  info:  System Administrator
+  email: arindamchk1995@gmail.com
+  url:
+  description:
+    
+  type: support
+
+- name: Anshuman Y. Pradhan
+  info: Learning Texture Dictionaries using Deep Learning
+  email: 
+  course: M.Tech 
+    
+  type: alumni
+  year: 2015
+  award:
+  url:
+    linkedin: https://www.linkedin.com/in/pradhananshuman/?originalSubdomain=in 
+
+- name: Akanksha Kumari
+  info: Building Detection in SAR Images 
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2015
+  award:
+  url:
+    linkedin: https://www.linkedin.com/in/kumari-akanksha-455b9046/?originalSubdomain=in
+
+- name: Ankit Bathwal
+  info: Learning Texture Kernels to Discriminate Chromatin Density in Optical Microscopic
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2015
+  award:
+  url:
+    linkedin: https://www.linkedin.com/in/ankit-bathwal-1261a238/?originalSubdomain=in
+
+- name: Kaustuv Mishra
+  info: Learning Temporal Connectionism of Visual Abstractions using Deep Neural Ar-chitectures for Monitoring of Minimally Invasive Surgical Interventions towards Workflow Modelling
+  email: 
+  course: M.Tech 
+    
+  type: alumni
+  year: 2017
+  award: Keshab K. Parhi Endowment Award
+  url:
+    linkedin: https://www.linkedin.com/in/kaustuv-mishra-727290aa/?originalSubdomain=in
+
+- name: Arna Ghosh
+  info: Deep Semantic Architectures for Mitotic Figure Detection in Breast Histopathology Images
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2017
+  award: Institute Silver Medal and Systems Society Best Thesis Award
+  url:
+    linkedin: https://www.linkedin.com/in/arna-ghosh-47852b73/?originalSubdomain=ca
+    gscholar: https://scholar.google.co.in/citations?user=YjS546oAAAAJ&hl=en
+
+- name: Rahul Singh
+  info: Deep Neural Networks for Predicting Driving States of a Vehicle towards Achieving Autonomous Driving
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2017
+  award: Best Thesis Award in Electrical Engineering
+  url:
+    linkedin: 
+    gscholar: 
+
+- name: Satyarth Singh
+  info: Combined Stereo Imaging System and Deep Learning Architecture for 3D Surface Profilometry of Cutaneous Wounds and their Diagnosis
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2017
+  award: 
+  url:
+    linkedin: https://www.linkedin.com/in/satyarth-singh-53964385/?originalSubdomain=in
+    gscholar:
+
+- name: Suryateja Chanduru
+  info: Deep Visual Semantic Architectures for Localization and Identification of Road Traffic Signs towards Autonomous Driving Assistance
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2017
+  award: 
+  url:
+    linkedin: 
+    gscholar:
+  
+
+- name: Roshan Pati
+  info: Deep Neural Networks for Simultaneously Localizing Fishes and Recognizing their Species in Underwater Videos
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2017
+  award: 
+  url:
+    linkedin: https://www.linkedin.com/in/roshan-pati-68b256102/?originalSubdomain=in
+    gscholar:
+
+- name: Mayank Gupta
+  info: Computational Neuroaesthetics of Fashionability
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2017
+  award: 
+  url:
+    linkedin: https://www.linkedin.com/in/phaarumghd/?originalSubdomain=in
+    gscholar:
+
+- name: Siddam Sai Rachana Patel
+  info: Learning Representations for Optic Disc Segmentation in Retinal Images
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2015
+  award: 
+  url:
+    linkedin: 
+    gscholar:
+
+- name: Rupesh Bansal
+  info: Learning Kernels for Tubular Structure Extraction in Speckle Imaging
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2015
+  award:
+  url:
+    linkedin: https://www.linkedin.com/in/rupesh-bansal-a0147957/?originalSubdomain=in
+    gscholar: 
+
+- name: Vankudothu Rahul
+  info: Learning Kernels for White Light Retinal Angiography
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2015
+  award: 
+  url:
+    linkedin: https://www.linkedin.com/in/rahul-vankudothu-60813869/?originalSubdomain=in
+    gscholar:
+
+
+- name: Chintada Chaitanya Chandra
+  info: Learning Representations for Image Segmentation in Optical Microscopic Histology
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2015
+  award: 
+  url:
+    linkedin: https://www.linkedin.com/in/chaitanya-chandra-30142846/?originalSubdomain=in
+    gscholar:
+
+- name: Rachana Sathish
+  info: Learning of Image Saliency for Visual Media Retargeting to Smarten-up Photo Framing
+  email: 
+  course: M.Tech
+    
+  type: alumni
+  year: 2016
+  award: 
+  url:
+    linkedin: https://www.linkedin.com/in/rachana-sathish-65163153/?originalSubdomain=in
+    gscholar: https://scholar.google.co.in/citations?user=V0UWsusAAAAJ&hl=en
+
+- name: Kanithi Praveen Kumar
+  info: Augmented Reality System for Assisting Needle Positioning During Ultrasound Guided Intervention
+  email: 
+  course: M.Tech
+    
+  type: alumni
+  year: 2016
+  award: 
+  url:
+    linkedin: 
+    gscholar:
+
+- name: Praveen Kumar
+  info: Smartphone based Immersive Mixed Reality System for Interctive Medical Visualizations
+  email: 
+  course: M.Tech
+    
+  type: alumni
+  year: 2016
+  award:
+  url:
+    linkedin: https://www.linkedin.com/in/praveen-kumar-643236110/?originalSubdomain=in
+    gscholar:
+
+- name: Ratala Lalitha
+  info: Organ Segmentation in Whole Body CT Volumes for Generating Digital Anatomy
+  email: 
+  course: M.Tech
+    
+  type: alumni
+  year: 2016
+  award: 
+  url:
+    linkedin: https://www.linkedin.com/in/lalitha-ratala-2507bb68/?originalSubdomain=in
+    gscholar:
+
+- name: D’Souza Shimona Niharika John
+  info: Self Taught Learning Based Optical Fluorescence Microscopy Image Deblurring using Stacked Denoising Auto-encoders
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2016
+  award: 
+  url:
+    linkedin: https://www.linkedin.com/in/niharika-shimona-d-souza-b1a47824/?originalSubdomain=in
+    gscholar: https://scholar.google.com/citations?user=iKonuvcAAAAJ&hl=en
+
+- name: Avi Gupta
+  info: Deep Architectures for Optical Coherence Tomographic Images using Convolutional Neural Network
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2016
+  award:
+  url:
+    linkedin: https://www.linkedin.com/in/avi-gupta-73152871/?originalSubdomain=in
+    gscholar:
+
+- name: Dadi Venkata Sainath
+  info: Deep Architectures for Photo Acoustic Tomography Image Analysis
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2016
+  award:
+  url:
+    linkedin: https://www.linkedin.com/in/venkatasainath/?originalSubdomain=in
+    gscholar:
+
+- name: Prabhath Yeluri
+  info: Super-resolution Dermatoscopy with a Consumer Grade Camera using Aperture Mask Based Sub-pixel Translated Images
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2016
+  award:
+  url:
+    linkedin: https://www.linkedin.com/in/prabhath-yeluri-8a479385/?originalSubdomain=in
+    gscholar:
+
+- name: Pradeepta Das
+  info: Deep Learning Based Computed Super-resolution Optical Microscopy
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2016
+  award:
+  url:
+    linkedin: https://www.linkedin.com/in/daprad/?originalSubdomain=in
+    gscholar:
+
+- name: Gagan Goel
+  info: Methods for Reducing Deployment Complexity of Fully Connected Deep Neural Network with Application to Retinal Vessel Segmentation
+  email: 
+  course: B.Tech
+    
+  type: alumni
+  year: 2016
+  award:
+  url:
+    linkedin: https://www.linkedin.com/in/gagan-goel-b70578102/?originalSubdomain=in
+    gscholar:
+
+
+
+
+
+
+
+
+
+
+
+
