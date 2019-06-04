@@ -1,4 +1,4 @@
-# iitkliv.github.io (under construction)
+# iitkliv.github.io
 IIT KLIV Group website
 
-### under construction
+[Go to the website](https://iitkliv.github.io)
