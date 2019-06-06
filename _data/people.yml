@@ -296,7 +296,7 @@
 - name: Apoorv Balde
   photo: apoorv.jpg
   info:  
-  email: 
+  email: apoorv.balde@gmail.com
   url:
   description:
     - Augmented Reality
@@ -606,7 +606,15 @@
     linkedin: https://www.linkedin.com/in/gagan-goel-b70578102/?originalSubdomain=in
     gscholar:
 
-
+- name: Ronnie Rajan
+  photo: rony.jpg
+  info:  
+  email: dr.ronnierajan@gmail.com
+  url:
+  description:
+    - Research Physician
+  type: undergrad
+  Linkedin: https://www.linkedin.com/in/ronnie-rajan-19728059/
 
 
 
