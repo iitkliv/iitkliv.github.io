@@ -253,53 +253,48 @@
 
 - name: Sumanth Nandamuri
   photo: sumanth.jpg
-  info: Dual Degree 
+  info: Dual Degree
+  dept: Civil Engineering
   email:  sumanthnandamuri99@gmail.com 
   url: 
-  description:
-    
   type: undergrad
   Linkedin: https://in.linkedin.com/in/nandamuri-hari-naga-sumanth-8b6b19135
 
-- name: Saketh Singh
+- name: Saket Singh
   photo: saket.jpg
-  info:  Dual Degree 
+  info:  Dual Degree
+  dept: Electrical Engineering
   email: saketsingh019@gmail.com
   url: 
-  description:
-    
   type: undergrad
   Linkedin: https://in.linkedin.com/in/saket-singh-b04205112
   
 
 - name: Anand Mooga
   photo: anand.png
-  info:  Bachelor of Technology (B.Tech.) Field Of Study Electrical Engineering
+  info:  Bachelor of Technology (B.Tech.)
+  dept: Electrical Engineering
   email: anandmooga2@gmail.com
   url: 
-  description:
-    
   type: undergrad
   Linkedin: https://in.linkedin.com/in/anandmooga
 
 - name: Rahul Raj
   photo: rahul.png
-  info:  Bachelor of Technology (B.Tech.) Field Of Study Electrical Engineering
+  info:  Bachelor of Technology (B.Tech.)
+  dept: Electrical Engineering
   email: rahul361raj@gmail.com
   url:
-  description:
-    
   type: undergrad
   Linkedin: https://www.linkedin.com/in/rahul-raj-iitkgp/
   
 
 - name: Apoorv Balde
   photo: apoorv.jpg
-  info:  
+  info: Master of Technology (M.Tech)
+  dept: Instrumentation Engineering
   email: apoorv.balde@gmail.com
   url:
-  description:
-    - Augmented Reality
   type: undergrad
 
 - name: Tapas Halder
@@ -608,11 +603,10 @@
 
 - name: Ronnie Rajan
   photo: rony.jpg
-  info: Masters in Medical Science and Technology (MMST), Biomedical/Medical Engineering 
+  info: Masters in Medical Science & Technology (MMST)
+  dept: Biomedical/Medical Engineering
   email: dr.ronnierajan@gmail.com
   url:
-  description:
-    - Research Physician
   type: undergrad
   Linkedin: https://www.linkedin.com/in/ronnie-rajan-19728059/
 
