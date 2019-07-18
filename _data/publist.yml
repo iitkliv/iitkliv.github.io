@@ -1,3 +1,36 @@
+- title: "Adversarially Trained Deep Neural Semantic Hashing Scheme for Subjective Search in Fashion Inventory"
+  description: The simple approach of retrieving a closest match of a query image from one in the gallery, compares an image pair using sum of absolute difference in pixel or feature space. The process is computationally expensive, ill-posed to illumination, background composition, pose variation, as well as inefficient to be deployed on gallery sets with more than 1000 elements. Hashing is a faster alternative which involves representing images in reduced dimensional simple feature spaces. Encoding images into binary hash codes enables similarity comparison in an image-pair using the Hamming distance measure. The challenge, however, lies in encoding the images using a semantic hashing scheme that lets subjective neighbors lie within the tolerable Hamming radius. This work presents a solution employing adversarial learning of a deep neural semantic hashing network for fashion inventory retrieval. It consists of a feature extracting convolutional neural network (CNN) learned to (i) minimize error in classifying type of clothing,(ii) minimize hamming distance between semantic neighbors and maximize distance between semantically dissimilar images,(iii) maximally scramble a discriminator's ability to identify the corresponding hash code-image pair when processing a semantically similar query-gallery image pair. Experimental validation for fashion inventory search yields a mean average precision (mAP) of 90.65% in finding the closest match as compared to 53.26% obtained by the prior art of deep Cauchy hashing for hamming space retrieval.
+  authors: Saket Singh, Debdoot Sheet, Mithun Dasgupta
+  link:
+    url: https://arxiv.org/abs/1907.00382
+    display: 2019 4th International Workshop on Fashion and KDD, 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+  highlight: true
+  image: ds.jpg
+  year: 2019
+  pp: 
+
+- title: "Unit Impulse Response as an Explainer of Redundancy in a Deep Convolutional Neural Network"
+  description: Convolutional neural networks (CNN) are generally designed with a heuristic initialization of network architecture and trained for a certain task. This often leads to overparametrization after learning and induces redundancy in the information flow paths within the network. This robustness and reliability is at the increased cost of redundant computations. Several methods have been proposed which leverage metrics that quantify the redundancy in each layer. However, layer-wise evaluation in these methods disregards the long-range redundancy which exists across depth on account of the distributed nature of the features learned by the model. In this paper, we propose (i) a mechanism to empirically demonstrate the robustness in performance of a CNN on account of redundancy across its depth,(ii) a method to identify the systemic redundancy in response of a CNN across depth using the understanding of unit impulse response, we subsequently demonstrate use of these methods to interpret redundancy in few networks as example. These techniques provide better insights into the internal dynamics of a CNN.
+  authors: Rachana Sathish, Debdoot Sheet
+  link:
+    url: http://openaccess.thecvf.com/content_CVPRW_2019/papers/Explainable%20AI/Sathish_Unit_Impulse_Response_as_an_Explainer_of_Redundancy_in_a_CVPRW_2019_paper.pdf
+    display: Explainable AI Workshop, 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2019)
+  highlight: true
+  image: rs.jpg
+  year: 2019
+  pp: 
+
+- title: "Multitask Learning of Temporal Connectionism in Convolutional Networks using a Joint Distribution Loss Function to Simultaneously Identify Tools and Phase in Surgical Videos"
+  description: Surgical workflow analysis is of importance for understanding onset and persistence of surgical phases and individual tool usage across surgery and in each phase. It is beneficial for clinical quality control and to hospital administrators for understanding surgery planning. Video acquired during surgery typically can be leveraged for this task. Currently, a combination of convolutional neural network (CNN) and recurrent neural networks (RNN) are popularly used for video analysis in general, not only being restricted to surgical videos. In this paper, we propose a multi-task learning framework using CNN followed by a bi-directional long short term memory (Bi-LSTM) to learn to encapsulate both forward and backward temporal dependencies. Further, the joint distribution indicating set of tools associated with a phase is used as an additional loss during learning to correct for their co-occurrence in any predictions. Experimental evaluation is performed using the Cholec80 dataset. We report a mean average precision (mAP) score of 0.99 and 0.86 for tool and phase identification respectively which are higher compared to prior-art in the fie
+  authors: Shanka Subhra Mondal, Rachana Sathish, Debdoot Sheet
+  link:
+    url: https://arxiv.org/abs/1905.08315
+    display: MedImage Workshop, 2018 Indian Conference on Vision, Graphics and Image Processing
+  highlight: true
+  image: ss.jpg
+  year: 2019
+  pp: 
+
 - title: "Learning with Multitask Adversaries using Weakly Labelled Data for Semantic Segmentation in Retinal Images"
   description: A prime challenge in building data driven inference models is the unavailability of statistically significant amount of labelled data. Since datasets are typically designed for a specific purpose, and accordingly are weakly labelled for only a single class instead of being exhaustively annotated. Despite there being multiple datasets which cumulatively represents a large corpus, their weak labelling poses challenge for direct use. As in case of retinal images which have inspired development of data driven learning based algorithms for segmenting anatomical landmarks like vessels and optic disc as well as pathologies like microaneurysms, hemorrhages, hard exudates and soft exudates; aspired to segment all using only a single fully convolutional neural network (FCN), there is no single dataset with all classes annotated. We solve this problem by training a single network using separate weakly labelled datasets. Essentially we use an adversarial learning approach over a semantic segmentation FCN, where the objectives of discriminators are to learn to (a) predict which of the classes are actually present in the input fundus image, and (b) distinguish between manual annotations vs. segmented results for each of the classes. The first discriminator works to enforce the network to segment those classes which are present in the fundus image although may not have been annotated ie all retinal images have vessels while pathology datasets may not have annotated them in the dataset. The second discriminator contributes to making the segmentation result as realistic as possible. We experimentally demonstrate using weakly labelled datasets of DRIVE …
   authors: Oindrila Saha, Rachana Sathish, Debdoot Sheet
@@ -9,13 +42,24 @@
   year: 2019
   pp: pp. 1-13
 
+- title: "Significance of Residual Learning and Boundary Weighted Loss in Ischaemic Stroke Lesion Segmentation"
+  description: Radiologists use various imaging modalities to aid in different tasks like diagnosis of disease, lesion visualization, surgical planning and prognostic evaluation. Most of these tasks rely on the the accurate delineation of the anatomical morphology of the organ, lesion or tumor. Deep learning frameworks can be designed to facilitate automated delineation of the region of interest in such cases with high accuracy. Performance of such automated frameworks for medical image segmentation can be improved with efficient integration of information from multiple modalities aided by suitable learning strategies. In this direction, we show the effectiveness of residual network trained adversarially in addition to a boundary weighted loss. The proposed methodology is experimentally verified on the SPES-ISLES 2015 dataset for ischaemic stroke segmentation with an average Dice coefficient of 0.881 for penumbra and 0.877 for core. It was observed that addition of residual connections and boundary weighted loss improved the performance significantly.
+  authors: Ronnie Rajan, Rachana Sathish, Debdoot Sheet
+  link:
+    url: https://openreview.net/forum?id=SyeOMoR4q4
+    display: 2019 International Conference on Medical Imaging with Deep Learning
+  highlight: true
+  image: ari.jpg
+  year: 2019
+  pp: 
+
 - title: "Fully Convolutional Neural Network for Semantic Segmentation of Anatomical Structure and Pathologies in Colour Fundus Images Associated with Diabetic Retinopathy"
   description: Diabetic retinopathy (DR) is the most common form of diabetic eye disease. Retinopathy can affect all diabetic patients and becomes particularly dangerous, increasing the risk of blindness, if it is left untreated. The success rate of its curability solemnly depends on diagnosis at an early stage. The development of automated computer aided disease diagnosis tools could help in faster detection of symptoms with a wider reach and reasonable cost. This paper proposes a method for the automated segmentation of retinal lesions and optic disk in fundus images using a deep fully convolutional neural network for semantic segmentation. This trainable segmentation pipeline consists of an encoder network, a corresponding decoder network followed by pixel-wise classification to segment microaneurysms, hemorrhages, hard exudates, soft exudates, optic disk from background. The network was trained using Binary cross entropy criterion with Sigmoid as the last layer, while during an additional SoftMax layer was used for boosting response of single class. The performance of the proposed method is evaluated using sensitivity, positive prediction value (PPV) and accuracy as the metrices. Further, the position of the Optic disk is localised using the segmented output map.
   authors: Oindrila Saha, Rachana Sathish, Debdoot Sheet
   link:
     url: https://arxiv.org/abs/1902.03122
     display:  arXiv preprint arXiv:1902.03122
-  highlight: false
+  highlight: true
   image: dibetic.jpg
   year: 2019
   pp: 
@@ -25,7 +69,7 @@
   authors: Sumanth Nandamuri, Debarghya China, Pabitra Mitra, Debdoot Sheet
   link:
     url: https://arxiv.org/abs/1901.06920
-    display: arXiv preprint arXiv:1901.06920
+    display: 2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019)
   highlight: true
   image: sumnet.jpg
   year: 2019
@@ -36,7 +80,7 @@
   authors: Francis Tom, Himanshu Sharma, Dheeraj Mundhra, Tathagato Rai Dastidar, Debdoot Sheet
   link:
     url: https://arxiv.org/abs/1901.06405
-    display: arXiv preprint arXiv:1901.06405
+    display: 2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019)
   highlight: true
   image: turing.jpg
   year: 2019 
@@ -47,7 +91,7 @@
   authors: Debarghya China, Francis Tom, Sumanth Nandamuri, Aupendu Kar, Mukundhan Srinivasan, Pabitra Mitra, Debdoot Sheet
   link:
     url: https://arxiv.org/abs/1901.05880
-    display: arXiv preprint arXiv:1901.05880
+    display: 2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019)
   highlight: true
   image: ultracompression.jpg
   year: 2019
