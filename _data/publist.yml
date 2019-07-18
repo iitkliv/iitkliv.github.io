@@ -15,7 +15,7 @@
   link:
     url: http://openaccess.thecvf.com/content_CVPRW_2019/papers/Explainable%20AI/Sathish_Unit_Impulse_Response_as_an_Explainer_of_Redundancy_in_a_CVPRW_2019_paper.pdf
     display: Explainable AI Workshop, 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2019)
-  highlight: true
+  highlight: false
   image: rs.jpg
   year: 2019
   pp: 
@@ -59,7 +59,7 @@
   link:
     url: https://arxiv.org/abs/1902.03122
     display:  arXiv preprint arXiv:1902.03122
-  highlight: true
+  highlight: false
   image: dibetic.jpg
   year: 2019
   pp: 
@@ -103,7 +103,7 @@
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-030-11479-4_10
     display: Springer, Cham
-  highlight: true
+  highlight: false
   image: phase.jpg
   year: 2019
   pp: pp. 201-217
@@ -114,7 +114,7 @@
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-030-04061-1_4
     display: Springer, Cham
-  highlight: true
+  highlight: false
   image: cataract.jpg
   year: 2019
   pp: pp. 31-38
