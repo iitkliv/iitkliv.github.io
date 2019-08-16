@@ -110,15 +110,6 @@
     github: "https://github.com/dasayan05"
     researchgate: "https://www.researchgate.net/profile/Ayan_Das15"
 
-
-- name: This could be You !
-  photo: phman.jpg
-  info: Be a part of the team ..
-  email: you@mail.com
-  description:
-    - See the vacancy list
-  type: member
-
 - name: Aupendu Kar
   photo: ak.png
   info: PhD Candidate
@@ -252,7 +243,7 @@
   course: btech
 
 - name: Sumanth Nandamuri
-  photo: sumanth.jpg
+  photo: sumanth2.jpg
   info: Dual Degree
   dept: Civil Engineering
   email:  sumanthnandamuri99@gmail.com 
@@ -609,6 +600,107 @@
   url:
   type: undergrad
   Linkedin: https://www.linkedin.com/in/ronnie-rajan-19728059/
+
+- name: Aditya Rathore
+  photo: adi rathore.png
+  info:  Bachelor of Technology (B.Tech.)
+  dept: Instrumental Engineering
+  email: arathore98@gmail.com
+  url:
+  type: undergrad
+  Linkedin: 
+
+- name: Anjaneya Praharaj
+  photo: anjan.jpg
+  info:  Bachelor of Technology (B.Tech.)
+  dept: Electronics & Communication Engineering
+  email: anjaneya.praharaj@gmail.com
+  url:
+  type: undergrad
+  Linkedin:
+
+- name: Anuraag Bhattacharya
+  photo: anurag.png
+  info:  Bachelor of Technology (B.Tech.)
+  dept: Electrical Engineering
+  email: anubhatt50@gmail.com
+  url:
+  type: undergrad
+  Linkedin:
+
+- name: Aaditya Kumar Singh
+  photo: aditya.png
+  info:  Bachelor of Technology (B.Tech.)
+  dept: Instrumental Engineering
+  email: aaditya99983@gmail.com
+  url:
+  type: undergrad
+  Linkedin:
+
+- name: Swagatam Haldar
+  photo: swagatam.jpg
+  info:  Bachelor of Technology (B.Tech.)
+  dept: Electrical Engineering
+  email: swagatam.haldar9@gmail.com
+  url:
+  type: undergrad
+  Linkedin:
+
+- name: Soumava Paul
+  photo: soumava.jpg
+  info:  Bachelor of Technology (B.Tech.)
+  dept: Electrical Engineering
+  email: soumava2016@gmail.com
+  url:
+  type: undergrad
+  Linkedin:
+
+- name: Vidit Goel
+  photo: vidit.jpg
+  info:  Bachelor of Technology (B.Tech.)
+  dept: Instrumental Engineering
+  email: vidit.goel9816@gmail.com
+  url:
+  type: undergrad
+  Linkedin:
+
+- name: Yash Agarwal
+  photo: yash.jpg
+  info:  Bachelor of Technology (B.Tech.)
+  dept: Instrumental Engineering
+  email: yashaga98@gmail.com
+  url:
+  type: undergrad
+  Linkedin:
+
+- name: Vikas Kumar
+  photo: Vikas.jpeg
+  info:  PhD Scholar, Homi Bhaba National Institute
+  dept: Computer Science
+  email: vranjan90@gmail.com
+  url: 
+  type: member
+  url:
+    linkedin: "https://www.linkedin.com/in/vikas-kumar-794a8855/"
+
+- name: Rakshith Sathish
+  photo: raksith.png
+  info:  Junior Project Officer
+  dept: Electrical Engineering
+  email: rakshith.sathish@gmail.com
+  url: 
+  type: member
+  url:
+    linkedin: "https://www.linkedin.com/in/rakshith-sathish/"
+
+- name: This could be You !
+  photo: phman.jpg
+  info: Be a part of the team ..
+  email: you@mail.com
+  description:
+    - See the vacancy list
+  type: member
+
 
 
 

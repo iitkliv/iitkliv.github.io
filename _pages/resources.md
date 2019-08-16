@@ -59,5 +59,8 @@ permalink: /resources/
 5. #### Network Attached Storage (NAS) Server:
        
      *  ###### 1x Intel(R) Xeon(R) 4110 CPU, 1x16GB DDR4 ECC Regd. RAM, 1x 4TB HDD.
- 
-<br /> <br />
+
+## IIT Kharagpur PPT Template
+<a href="//_data/PPT_Template.pptx">Download Here</a>
+             
+ <br /> <br />
