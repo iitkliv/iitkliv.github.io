@@ -61,6 +61,6 @@ permalink: /resources/
      *  ###### 1x Intel(R) Xeon(R) 4110 CPU, 1x16GB DDR4 ECC Regd. RAM, 1x 4TB HDD.
 
 ## IIT Kharagpur PPT Template
-<a href="//_data/PPT_Template.pptx">Download Here</a>
+<a href="https://drive.google.com/open?id=1PKw2OwPbeBBtMprC0nXd9GMOvv-vVSxp">Download Here</a>
              
  <br /> <br />
