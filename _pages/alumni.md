@@ -8,11 +8,12 @@ permalink: /alumni/
 
 ## Alumni
 
-{% assign years = "2015,2016,2017" | split: ',' %}
+{% assign years = "2015,2016,2017,2019" | split: ',' %}
 {% for year in years reversed %}
 <ul>
 <li> <div style="font-size: 22px;">{{ year }}: </div> <br>
 <ul>
+
 <li> <div style="font-size: 22px;">B.Tech: </div> <br>
    <ol>
         {% for p in site.data.people %}
@@ -30,10 +31,10 @@ permalink: /alumni/
    </ol>
 </li>
   
-<li> <div style="font-size: 22px;">M.Tech: </div> <br>
+<li> <div style="font-size: 22px;">M.Tech/M.S: </div> <br>
    <ol>
         {% for p in site.data.people %}
-        {% if p.type == "alumni" and p.course == "M.Tech" %}
+        {% if p.type == "alumni" and p.course == "M.Tech/M.S" %}
         {% if year contains p.year %}
             <li>
                 <p style="font-size: 18px; text-align: justify;">

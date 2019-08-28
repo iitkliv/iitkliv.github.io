@@ -1,5 +1,5 @@
 - name: Dr. Debdoot Sheet
-  photo: ds.png
+  photo: ds.jpg
   info: Principal Investigator (PI) of KLIV Group
   email: debdoot@ee.iitkgp.ac.in
   description:
@@ -35,7 +35,7 @@
     - Biophotonic Imaging
     - Image processing
     - Machine Learning
-  type: member
+  type: alumni
   url:
     linkedin: "https://www.linkedin.com/in/kausikbasak16/?originalSubdomain=in"
     gscholar: "https://scholar.google.co.in/citations?user=urimOcEAAAAJ&hl=en"
@@ -103,7 +103,7 @@
    - Medical Image Compression
    - Computational Optimization
    - <a href="https://dasayan05.github.io/" target="_blank"> Personal Site </a>
-  type: member
+  type: alumni
   url:
     linkedin: "https://www.linkedin.com/in/ayan-das-a49928a7/"
     gscholar: "https://scholar.google.co.in/citations?user=GsoQVuoAAAAJ&hl=en"
@@ -289,7 +289,7 @@
   type: undergrad
 
 - name: Tapas Halder
-  photo: tapas.jpg
+  photo: tapas.png
   info:  Secretarial Support
   email: tapas4mkgp@gmail.com
   url:
@@ -309,7 +309,7 @@
 - name: Anshuman Y. Pradhan
   info: Learning Texture Dictionaries using Deep Learning
   email: 
-  course: M.Tech 
+  course: M.Tech/M.S 
     
   type: alumni
   year: 2015
@@ -342,7 +342,7 @@
 - name: Kaustuv Mishra
   info: Learning Temporal Connectionism of Visual Abstractions using Deep Neural Ar-chitectures for Monitoring of Minimally Invasive Surgical Interventions towards Workflow Modelling
   email: 
-  course: M.Tech 
+  course: M.Tech/M.S 
     
   type: alumni
   year: 2017
@@ -475,7 +475,7 @@
 - name: Rachana Sathish
   info: Learning of Image Saliency for Visual Media Retargeting to Smarten-up Photo Framing
   email: 
-  course: M.Tech
+  course: M.Tech/M.S
     
   type: alumni
   year: 2016
@@ -487,7 +487,7 @@
 - name: Kanithi Praveen Kumar
   info: Augmented Reality System for Assisting Needle Positioning During Ultrasound Guided Intervention
   email: 
-  course: M.Tech
+  course: M.Tech/M.S
     
   type: alumni
   year: 2016
@@ -499,7 +499,7 @@
 - name: Praveen Kumar
   info: Smartphone based Immersive Mixed Reality System for Interctive Medical Visualizations
   email: 
-  course: M.Tech
+  course: M.Tech/M.S
     
   type: alumni
   year: 2016
@@ -511,7 +511,7 @@
 - name: Ratala Lalitha
   info: Organ Segmentation in Whole Body CT Volumes for Generating Digital Anatomy
   email: 
-  course: M.Tech
+  course: M.Tech/M.S
     
   type: alumni
   year: 2016
@@ -700,6 +700,18 @@
   description:
     - See the vacancy list
   type: member
+
+- name: Ayan Das
+  info:
+    - Medical Image Compression
+    - Computational Optimization
+  email: ayan.das@ee.iitkgp.ac.in
+  course: M.Tech/M.S
+  type: alumni
+  year: 2019
+  award: 
+  url:
+    linkedin: https://www.linkedin.com/in/ayan-das-a49928a7/
 
 
 
