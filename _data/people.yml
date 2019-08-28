@@ -1,5 +1,5 @@
 - name: Dr. Debdoot Sheet
-  photo: ds.jpg
+  photo: ds.png
   info: Principal Investigator (PI) of KLIV Group
   email: debdoot@ee.iitkgp.ac.in
   description:
@@ -14,7 +14,7 @@
     researchgate: "https://www.researchgate.net/profile/Debdoot_Sheet"
 
 - name: Arunava Chakravarty
-  photo: ac.jpeg
+  photo: ac.png
   info: Research Consultant
   email: arunavachakravarty1206@gmail.com
   description:
@@ -69,7 +69,7 @@
     researchgate:
 
 - name: Rachana Sathish
-  photo: rs.jpg
+  photo: rs.png
   info: PhD Candidate
   email: rachana.sathish@iitkgp.ac.in
   description:
@@ -96,7 +96,7 @@
     researchgate:
 
 - name: Ayan Das
-  photo: ad.jpg
+  photo: ad.png
   info: M.S. student
   email: ayan.das@ee.iitkgp.ac.in
   description:
@@ -243,7 +243,7 @@
   course: btech
 
 - name: Sumanth Nandamuri
-  photo: sumanth2.jpg
+  photo: sumanth2.png
   info: Dual Degree
   dept: Civil Engineering
   email:  sumanthnandamuri99@gmail.com 
