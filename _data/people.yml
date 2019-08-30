@@ -42,19 +42,6 @@
     github: 
     researchgate: "https://www.researchgate.net/profile/Kausik_Basak2"
 
-- name: Debarghya China
-  photo: dc.jpg
-  info: PhD Candidate
-  email: debarghyachina@gmail.com
-  description:
-    - Ultrasound Image Analysis
-  type: member
-  url:
-    linkedin: "https://www.linkedin.com/in/debarghya-china-2a637aba/"
-    gscholar: "https://scholar.google.co.in/citations?user=EQOW7T0AAAAJ&hl=en"
-    github: 
-    researchgate: "https://www.researchgate.net/profile/Debarghya_China"
-
 - name: Kaushik Das
   photo: kd.jpg
   info: PhD Candidate
@@ -703,7 +690,7 @@
 
 - name: Ayan Das
   info:
-    - Medical Image Compression
+    - Medical Image Compression,
     - Computational Optimization
   email: ayan.das@ee.iitkgp.ac.in
   course: M.Tech/M.S
@@ -712,6 +699,30 @@
   award: 
   url:
     linkedin: https://www.linkedin.com/in/ayan-das-a49928a7/
+
+- name: Debarghya China
+  info:
+    - Ultrasound Image Analysis
+  email: debarghyachina@gmail.com
+  course: PhD
+  type: alumni
+  year: 2019
+  award: 
+  url:
+    linkedin: https://www.linkedin.com/in/debarghya-china-2a637aba/
+
+- name: Kausik Basak
+  info:
+    - Biophotonic Imaging,
+    - Image processing,
+    - Machine Learning
+  email: kausikbasak16@gmail.com
+  course: PostDoc
+  type: alumni
+  year: 2019
+  award: 
+  url:
+    linkedin: https://www.linkedin.com/in/kausikbasak16/?originalSubdomain=in
 
 
 

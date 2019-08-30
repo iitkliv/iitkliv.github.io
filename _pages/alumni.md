@@ -14,10 +14,44 @@ permalink: /alumni/
 <li> <div style="font-size: 22px;">{{ year }}: </div> <br>
 <ul>
 
-<li> <div style="font-size: 22px;">B.Tech: </div> <br>
+<li> <div style="font-size: 22px;">PostDoc: </div> <br>
    <ol>
         {% for p in site.data.people %}
-        {% if p.type == "alumni" and p.course == "B.Tech" %}
+        {% if p.type == "alumni" and p.course == "PostDoc" %}
+        {% if year contains p.year %}
+            <li>
+                <p style="font-size: 18px; text-align: justify;">
+                <strong>{{ p.name }}</strong>{% if p.url.linkedin %} <a href="{{ p.url.linkedin }}" target="_blank"><img style="border:0px;margin:0px;" width="2%" src="{{ site.url }}{{ site.baseurl }}/images/icons/linkedin.png" /></a>{% endif %}
+                {% if p.url.gscholar %} <a href="{{ p.url.gscholar }}" target="_blank"><img style="border:0px;margin:0px;" width="2%" src="{{ site.url }}{{ site.baseurl }}/images/icons/gscholar.png" /></a>{% endif %}<br /> {{ p.info }}<br /> <i>{{ p.award}}</i>
+                </p>
+            </li>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+   </ol>
+</li>
+
+<li> <div style="font-size: 22px;">PhD: </div> <br>
+   <ol>
+        {% for p in site.data.people %}
+        {% if p.type == "alumni" and p.course == "PhD" %}
+        {% if year contains p.year %}
+            <li>
+                <p style="font-size: 18px; text-align: justify;">
+                <strong>{{ p.name }}</strong>{% if p.url.linkedin %} <a href="{{ p.url.linkedin }}" target="_blank"><img style="border:0px;margin:0px;" width="2%" src="{{ site.url }}{{ site.baseurl }}/images/icons/linkedin.png" /></a>{% endif %}
+                {% if p.url.gscholar %} <a href="{{ p.url.gscholar }}" target="_blank"><img style="border:0px;margin:0px;" width="2%" src="{{ site.url }}{{ site.baseurl }}/images/icons/gscholar.png" /></a>{% endif %}<br /> {{ p.info }}<br /> <i>{{ p.award}}</i>
+                </p>
+            </li>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+   </ol>
+</li>
+
+<li> <div style="font-size: 22px;">M.Tech/M.S: </div> <br>
+   <ol>
+        {% for p in site.data.people %}
+        {% if p.type == "alumni" and p.course == "M.Tech/M.S" %}
         {% if year contains p.year %}
             <li>
                 <p style="font-size: 18px; text-align: justify;">
@@ -31,10 +65,10 @@ permalink: /alumni/
    </ol>
 </li>
   
-<li> <div style="font-size: 22px;">M.Tech/M.S: </div> <br>
+<li> <div style="font-size: 22px;">B.Tech: </div> <br>
    <ol>
         {% for p in site.data.people %}
-        {% if p.type == "alumni" and p.course == "M.Tech/M.S" %}
+        {% if p.type == "alumni" and p.course == "B.Tech" %}
         {% if year contains p.year %}
             <li>
                 <p style="font-size: 18px; text-align: justify;">
