@@ -4,7 +4,7 @@
   link:
     url: https://link.springer.com/chapter/10.1007/978-981-32-9291-8_20
     display: Proceedings of 3rd International Conference on Computer Vision and Image Processing
-  highlight: true
+  highlight: false
   image: irregulity.jpeg
   year: 2020
   pp: pp. 243-255
