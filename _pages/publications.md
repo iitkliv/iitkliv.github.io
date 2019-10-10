@@ -53,7 +53,7 @@ permalink: /publications/
 ## Full list of publications
 (You may also visit the [Google Scholar](https://scholar.google.com/citations?user=x-0vLSsAAAAJ&hl=en) page)
 
-{% assign years = "2014,2015,2016,2017,2018,2019" | split: ',' %}
+{% assign years = "2014,2015,2016,2017,2018,2019,2020" | split: ',' %}
 {% for year in years reversed %}
 <ul>
   <li> <div style="font-size: 22px;">{{ year }}: </div> <br>

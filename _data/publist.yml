@@ -1,3 +1,14 @@
+- title: "Image Embedding for Detecting Irregularity"
+  description: Detecting irregularity in an image or video is an important task in quality control or automatic visual inspection. This paper presents an image embedding technique for detecting an irregularity or abnormality in images. This can further be utilized in image screening application. In the proposed architecture, deep adversarial autoencoder is trained to extract the features from images. Using these features and skip-gram model, we develop the image2vec architecture to capture contextual probability in an image. Various score aggregation techniques are explored and its performance is reported. As a case study, we present a scenario of foreign body object detection in clinical-grade X-ray images. The proposed approach is found to correctly detect and localize abnormality in images.
+  authors: MK Sharma, Debdoot Sheet, Prabir Kumar Biswas
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-981-32-9291-8_20
+    display: Proceedings of 3rd International Conference on Computer Vision and Image Processing
+  highlight: true
+  image: irregulity.jpeg
+  year: 2020
+  pp: pp. 243-255
+
 - title: "Adversarially Trained Deep Neural Semantic Hashing Scheme for Subjective Search in Fashion Inventory"
   description: The simple approach of retrieving a closest match of a query image from one in the gallery, compares an image pair using sum of absolute difference in pixel or feature space. The process is computationally expensive, ill-posed to illumination, background composition, pose variation, as well as inefficient to be deployed on gallery sets with more than 1000 elements. Hashing is a faster alternative which involves representing images in reduced dimensional simple feature spaces. Encoding images into binary hash codes enables similarity comparison in an image-pair using the Hamming distance measure. The challenge, however, lies in encoding the images using a semantic hashing scheme that lets subjective neighbors lie within the tolerable Hamming radius. This work presents a solution employing adversarial learning of a deep neural semantic hashing network for fashion inventory retrieval. It consists of a feature extracting convolutional neural network (CNN) learned to (i) minimize error in classifying type of clothing,(ii) minimize hamming distance between semantic neighbors and maximize distance between semantically dissimilar images,(iii) maximally scramble a discriminator's ability to identify the corresponding hash code-image pair when processing a semantically similar query-gallery image pair. Experimental validation for fashion inventory search yields a mean average precision (mAP) of 90.65% in finding the closest match as compared to 53.26% obtained by the prior art of deep Cauchy hashing for hamming space retrieval.
   authors: Saket Singh, Debdoot Sheet, Mithun Dasgupta
