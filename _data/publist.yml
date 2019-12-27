@@ -1,3 +1,14 @@
+- title: "IDRiD: Diabetic Retinopathy–Segmentation and Grading Challenge"
+  description: Diabetic Retinopathy (DR) is the most common cause of avoidable vision loss, predominantly affecting the working-age population across the globe. Screening for DR, coupled with timely consultation and treatment, is a globally trusted policy to avoid vision loss. However, implementation of DR screening programs is challenging due to the scarcity of medical professionals able to screen a growing global diabetic population at risk for DR. Computer-aided disease diagnosis in retinal image analysis could provide a sustainable approach for such large-scale screening effort. The recent scientific advances in computing capacity and machine learning approaches provide an avenue for biomedical scientists to reach this goal. Aiming to advance the state-of-the-art in automatic DR diagnosis, a grand challenge on “Diabetic Retinopathy – Segmentation and Grading” was organized in conjunction with the IEEE …
+  authors: Prasanna Porwal, Samiksha Pachade, Manesh Kokare, Debdoot Sheet, Oindrila Saha, Rachana Sathish et al.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1361841519301033
+    display: Medical image analysis
+  highlight: true
+  image: idrid.jpg
+  year: 2020
+  pp: pp. 101561
+
 - title: "Image Embedding for Detecting Irregularity"
   description: Detecting irregularity in an image or video is an important task in quality control or automatic visual inspection. This paper presents an image embedding technique for detecting an irregularity or abnormality in images. This can further be utilized in image screening application. In the proposed architecture, deep adversarial autoencoder is trained to extract the features from images. Using these features and skip-gram model, we develop the image2vec architecture to capture contextual probability in an image. Various score aggregation techniques are explored and its performance is reported. As a case study, we present a scenario of foreign body object detection in clinical-grade X-ray images. The proposed approach is found to correctly detect and localize abnormality in images.
   authors: MK Sharma, Debdoot Sheet, Prabir Kumar Biswas
