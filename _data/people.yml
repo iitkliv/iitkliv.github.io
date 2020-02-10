@@ -27,6 +27,20 @@
     github: "https://github.com/arunava555?tab=stars"
     researchgate: "https://www.researchgate.net/profile/Arunava_Chakravarty"
 
+- name: Manoj Kumar Sharma
+  photo: mks.jpeg
+  info: Research Consultant
+  email: manojsharma.net@gmail.com
+  description:
+    - Deep Learning
+    - Digital Image Processing
+  type: member
+  url:
+    linkedin: "linkedin.com/in/manojsharma-iitkgp"
+    gscholar: "https://scholar.google.co.in/citations?user=PEpN_44AAAAJ&hl=en"
+    github: "https://github.com/manojsharmaiitkgp"
+    researchgate: "https://www.researchgate.net/profile/Manoj_Sharma42"
+
 - name: Kausik Basak
   photo: kb.jpg
   info: Postdoctoral Research Consultant
@@ -732,7 +746,6 @@
   url:
   type: undergrad
   Linkedin:
-
 
 
 
