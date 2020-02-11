@@ -694,6 +694,16 @@
   url:
     linkedin: "https://www.linkedin.com/in/rakshith-sathish/"
 
+- name: Aditya Raj
+  photo: adiraj.jpg
+  info:  Junior Project Officer
+  dept: Electrical Engineering
+  email: aditya.raj13@gmail.com
+  url: 
+  type: member
+  url:
+    linkedin: "https://www.linkedin.com/in/aditya-raj-b6b856103/"
+
 - name: This could be You !
   photo: phman.jpg
   info: Be a part of the team ..
